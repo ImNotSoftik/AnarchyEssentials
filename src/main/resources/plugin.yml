@@ -1,0 +1,6 @@
+name: AnarchyEssentials
+version: '${project.version}'
+main: me.Anarchy.Essentials.Main
+authors: [ _Soft1k_ ]
+description: Essentials for anarchy servers!
+website: 6g6s.org
